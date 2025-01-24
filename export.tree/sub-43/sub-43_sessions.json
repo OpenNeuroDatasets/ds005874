@@ -1,0 +1,16 @@
+{
+    "session_id": {
+      "Description": "Session ID",
+      "Levels": {
+        "ses-01": "Session 1",
+        "ses-02": "Session 2"
+      }
+    },
+    "prandial_state": {
+      "Description": "Prandial state of the session.",
+      "Levels": {
+        "fast": "Fasting state (overnight fast)",
+        "post-prandial": "post-prandial state (after mixed liquid meal)"
+      }
+    }
+  }

@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-31_ses-02_acq-PAEP2D_dir-COL_run-1_fmapid-auto00003_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-31_ses-02_acq-PAEP2D_dir-COL_run-1_fmapid-auto00003_desc-coeff0_fieldmap.nii.gz",
+    "sub-31_ses-02_acq-PAEP2D_dir-COL_run-1_fmapid-auto00003_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00003",
+  "IntendedFor": [
+    "ses-02/func/sub-31_ses-02_task-TASK_acq-PAEP2D_dir-COL_run-1_echo-1_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/data/bids/sub-31/ses-02/func/sub-31_ses-02_task-TASK_acq-PAEP2D_dir-COL_run-1_echo-1_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
