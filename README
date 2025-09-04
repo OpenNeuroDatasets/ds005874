@@ -22,3 +22,6 @@ TR changed from 4700 ms to 5200ms
 AP multiband diffusion block 2 changes:
 TE changed from 84ms to 89 ms
 TR changed from 4700 ms to 5200 ms
+
+## DWI not available for sub-17
+DWI files for sub-17 are incomplete. As such, sub-17/ses-02/dwi is not included as part of the published dataset.
